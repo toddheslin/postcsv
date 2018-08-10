@@ -8,6 +8,7 @@
   "bin": "./bin/cli.js",
   "bugs": "https://github.com/toddheslin/postcsv/issues",
   "homepage": "https://github.com/toddheslin/postcsv",
+  "repository": "https://github.com/toddheslin/postcsv",
   "keywords": [
     "csv",
     "rest",
