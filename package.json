@@ -2,12 +2,18 @@
   "name": "postcsv",
   "version": "0.0.1",
   "description": "Makes POST requests for each row in a CSV file",
-  "main": "index.js",
   "scripts": {
     "test": "node ./bin/cli --csv ./test/fixtures/test.csv --url http://postb.in/TaedrSkb --rps 10"
   },
   "bin": "./bin/cli.js",
-  "keywords": [],
+  "bugs": "https://github.com/toddheslin/postcsv/issues",
+  "homepage": "https://github.com/toddheslin/postcsv",
+  "keywords": [
+    "csv",
+    "rest",
+    "http",
+    "csv to json"
+  ],
   "author": "Todd Heslin <wow@beingremarkable.me>",
   "license": "MIT",
   "devDependencies": {
